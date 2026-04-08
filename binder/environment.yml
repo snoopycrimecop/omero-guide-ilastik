@@ -8,6 +8,6 @@ dependencies:
   - omero-py==5.22.*
   - pip
   - ipywidgets==7.8.5
-  - ilastik-forge::ilastik-core==1.4.1b22
+  - ilastik-forge::ilastik-core==1.4.2b10
   - yapsy==1.12.2
   - ome-zarr==0.14.0
