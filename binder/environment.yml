@@ -4,10 +4,10 @@ channels:
   - ilastik-forge
   - nodefaults
 dependencies:
-  - python==3.9.*
-  - omero-py==5.19.*
+  - python==3.11.15
+  - omero-py==5.21.2
   - pip
-  - ipywidgets==7.8.5
-  - ilastik-forge::ilastik-core==1.4.1b22
+  - ipywidgets==8.1.8
+  - ilastik-forge::ilastik-core==1.4.2b10
   - yapsy==1.12.2
-  - ome-zarr==0.9.0
+  - ome-zarr==0.11.1
